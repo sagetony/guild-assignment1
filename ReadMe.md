@@ -2,4 +2,4 @@
 
 ## 1. [20 Attack Vectors](https://github.com/sagetony/guild-assignment1/tree/dev/vector-attack/documetation)
 
-## 2. [Weird ERC20](https://github.com/sagetony/guild-assignment1/blob/dev/weird-erc20/documentation/doumentation.md)
+## 2. [Weird ERC20](https://github.com/sagetony/guild-assignment1/tree/dev/weird-erc20/documentation)
